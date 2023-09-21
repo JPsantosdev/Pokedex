@@ -1,0 +1,2 @@
+#PokeAPI based Nationaldex
+### Description: Web based API sproject/study using PokeAPI for producing an interactive pokedex to show Pokémon from 1 to 1021 (current gen). Open the website and click on More to show more Pokémon. Each click increases the amount of pokémon on the screen by 9.
